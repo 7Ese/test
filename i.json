@@ -1,0 +1,25 @@
+{
+  "name": "skp ",
+  "logoURI": "https://raw.githubusercontent.com/7Ese/test/main/bitbug_favicon.ico",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2022-01-10T00:00:00.000+00:00",
+    "tokens": [
+      {
+      "chainId": 56,
+      "address": "0x4B79481EE9e16eA9DA7312f3739C7aAA05DaabA3",
+      "name": "SKP",
+      "symbol": "SKP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/7Ese/test/main/bitbug_favicon.ico"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
